@@ -1,0 +1,11 @@
+{
+
+  "version": 2,
+
+  "routes": [
+
+      {"src": "/(.*)","dest": "https://t.me/$1"}
+
+  ]
+
+}
